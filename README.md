@@ -1016,6 +1016,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - FrontEnd, JavaScript, Code maintenance
 - Location - San Francisco, California
 
+#### Joe Warren
+
+- [@MightyJoeW](https://twitter.com/MightyJoeW)
+- Topics - FrontEnd, React, Job Search and Interviewing
+- Location - Dallas, Tx
+
 ### Zambia
 
 #### Mukuma Musenge
